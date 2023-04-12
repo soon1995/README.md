@@ -13,4 +13,4 @@ Being a self-driven, career-minded individual, I strive to grow as a developer e
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-soon1995.vercel.app/api?username=soon1995&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soon1995&show_icons=true&theme=radical)
