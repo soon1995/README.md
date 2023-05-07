@@ -13,8 +13,26 @@ Being a self-driven, career-minded individual, I strive to grow as a developer e
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soon1995&show_icons=true&theme=radical) 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:LOCALE-->
+<!--END_SECTION:LOCALE-->
+
+<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
+<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
+
+<!--START_SECTION:SHOW_PROFILE_VIEWS-->
+<!--END_SECTION:SHOW_PROFILE_VIEWS-->
+
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
+
+<!--START_SECTION:SHOW_EDITORS -->
+<!--END_SECTION:SHOW_EDITORS -->
+
+<!--START_SECTION:SHOW_OS -->
+<!--END_SECTION:SHOW_OS -->
+
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
 
 Tools I play around
 -------------
