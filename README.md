@@ -12,6 +12,12 @@ Being a self-driven, career-minded individual, I strive to grow as a developer e
 
 <br/>
 
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soon1995&show_icons=true&theme=radical) 
+
+</div>
+
 
 
 Tools I play around
@@ -38,12 +44,6 @@ Tools I play around
 
 My Stats
 ---------------
-
-<div align="right">
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soon1995&show_icons=true&theme=radical) 
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=soon1995&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2052%20mins-blue)
@@ -128,5 +128,4 @@ Lua                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 08/05/2023 00:56:22 UTC
 <!--END_SECTION:waka-->
-
-</div>
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
