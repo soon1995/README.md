@@ -20,8 +20,8 @@ Being a self-driven, career-minded individual, I strive to grow as a developer e
 </div>
 
 <div align="center">
-I would be happy to connect with you!<br/><br/>
-<a href="https://www.linkedin.com/in/al-soon-383044166/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" witdh="40" height="40"/> </a>
+  <i><b>I would be happy to connect with you!</b></i><br/><br/>
+  <a href="https://www.linkedin.com/in/al-soon-383044166/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" witdh="40" height="40"/> </a>
 </div>
 
 Tools I play around
