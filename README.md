@@ -27,7 +27,7 @@ As a self-motivated and career-oriented individual, I am dedicated to continual 
 
 <div align="center">
   <i><b>I would be happy to connect with you!</b></i><br/><br/>
-  <a href="https://www.linkedin.com/in/al-soon-383044166/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" witdh="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/alex-soon-383044166" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" witdh="40" height="40"/> </a>
 </div>
 
 ## Tools I play around
