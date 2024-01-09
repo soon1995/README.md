@@ -9,7 +9,7 @@ As a self-motivated and career-oriented individual, I am dedicated to continual 
 
 :star2: I have an insatiable curiosity and a penchant for discovering new knowledge.
 
-💰 Currently, I'm engaged in a Golang project, and I'm truly impressed by Golang's simplicity – it has captured my heart! Previously, I was a self-learner in Java.
+💰 Currently, I'm engaged in a Golang project, and I'm truly impressed by Golang's simplicity – it has captured my heart!
 
 :books: I am presently pursuing a Bachelor's Degree in Information Technology.
 
